@@ -1,2 +1,37 @@
-# python-lab
-Planned self-directed Python practice lab. Exercises and supporting evidence will be added as work is completed.
+# Python Lab
+
+## Purpose
+
+Build Python skills through small, reproducible exercises.
+
+This is a self-directed learning project, not client delivery.
+
+## Current status
+
+Planning only. This repository currently contains documentation.
+No exercises, runnable implementation, tests or demonstrations have been added.
+
+## Planned exercises
+
+These are proposed activities, not completed capabilities.
+
+- [ ] Practise functions, collections and file handling.
+- [ ] Work with JSON and CSV sample data.
+- [ ] Make HTTP requests and handle failures.
+- [ ] Add tests and document how to run each exercise.
+
+## Running the project
+
+There is no runnable implementation yet. Setup instructions and dependencies
+will be documented alongside the first exercise.
+
+## Evidence
+
+No implementation evidence is available yet. Each completed exercise should
+include its problem, approach, relevant code, verification steps, results and
+known limitations.
+
+## Data and credentials
+
+Use synthetic or explicitly permitted sample data. Keep credentials, tokens
+and private information out of source code, logs and committed evidence.
